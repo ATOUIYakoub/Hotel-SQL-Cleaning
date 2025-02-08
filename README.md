@@ -65,7 +65,7 @@ The following schema represents the available tables. The dataset contains only 
 1. Clone the repository:
    ```bash
    git clone https://github.com/ATOUIYakoub/Hotel-SQL-Cleaning.git
-   cd DATACAMP-SQL-EXAM
+   cd Hotel-SQL-Cleaning
    ```
 2. Import your dataset into PostgreSQL:
    ```sql
